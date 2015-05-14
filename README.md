@@ -1,6 +1,7 @@
 # Ember-cli-lightbox [![Build Status](https://travis-ci.org/ramybenaroya/ember-cli-lightbox.svg?branch=master)](https://travis-ci.org/ramybenaroya/ember-cli-lightbox)
 
 A lightbox component for ember using [Lightbox2](http://lokeshdhakar.com/projects/lightbox2/).
+My forked version allows you to pass in attributes that update or are loaded async.
 
 ## Usage
 
